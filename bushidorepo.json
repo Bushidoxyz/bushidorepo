@@ -1,0 +1,9 @@
+{
+  "id": "bushidorepo",
+  "name": "bushidorepo",
+  "type": "video",
+  "baseUrl": "https://www.gledaitv.fan",
+  "lang": "tr",
+  "logo": "",
+  "pluginScript": "https://raw.githubusercontent.com/USERNAME/bushidorepo/main/plugins/bushidorepo.js"
+}
